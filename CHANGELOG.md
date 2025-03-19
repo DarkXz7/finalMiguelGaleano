@@ -1,5 +1,20 @@
 # Changelog Merkachecheres
 
+## [V3 - Desarrollo 2025-04-11]
+
+### ADEDD
+- Interfaces de Usuario en HTML, CSS y JS
+- Modelo fisico de bases de datos en MySQL
+- Script de Base de datos NoSQL (MongoDb)
+- Git
+- Software en Nodejs
+- Software en Django
+- Software en Moviles
+- Plan de Pruebas
+- Casos de Pruebas
+- Informe de Pruebas
+
+
 ## [V2 - Diseño 2024-08-02]
 
 ### ADEDD
