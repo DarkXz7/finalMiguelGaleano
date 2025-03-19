@@ -1,5 +1,24 @@
 # Changelog Merkachecheres
 
+## [V4 - Implantacion 2025-08-06]
+
+### ADEDD
+- Plan de garantía de Calidad. (Calidad)
+- Elaborar el informe de Evaluación de Calidad (Calidad)
+- Bitácoras de lecciones aprendidas (Calidad)
+- Planes de mejora. (Calidad)
+- P lan de migración de datos
+- Plan de Respaldo de los datos
+- Plan de Instalación
+- Planes de Mantenimiento y soporte del software
+- Informe del Proceso de Migración y Respaldo de los datos
+- Manual de Instalación (Implantación)
+- Manual Tecnico
+- Manual de Usuario
+- Plan de capacitación
+- Asistencia de los usuarios capacitados
+- Pruebas de Aceptación (Actas)
+
 ## [V3 - Desarrollo 2025-04-11]
 
 ### ADEDD
