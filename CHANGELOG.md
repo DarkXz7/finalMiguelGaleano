@@ -1,5 +1,15 @@
 # Changelog Merkachecheres
 
+## [V2 - Diseño 2024-08-02]
+
+### ADEDD
+- Diccionario de datos.
+- Mapa de navegación
+- Prototipos de figma
+- Diagrama de clases
+- Costos y ficha técnica
+- Arquitectura del software
+- Lista de chequeo
 
 
 ## [V1 - Analisis 2024-03-22]
